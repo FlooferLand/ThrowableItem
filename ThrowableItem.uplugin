@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ThrowableItem",
+	"Description": "Read DualSense, DualShock 4, JoyCon, and Pro Controller input on PC",
+	"Category": "Input",
+	"CreatedBy": "FlooferLand",
+	"CreatedByURL": "https://github.com/FlooferLand",
+	"DocsURL": "https://github.com/JibbSmart/JoyShockLibrary#reference",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ThrowableItem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
